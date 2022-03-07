@@ -1,0 +1,1 @@
+logs/bg96_log.qmdl filter=lfs diff=lfs merge=lfs -text
